@@ -38,6 +38,7 @@ class BackupDatabase extends Command
                     ->setDbName(config('database.connections.mysql.database'))
                     ->setUserName(config('database.connections.mysql.username'))
                     ->setPassword(config('database.connections.mysql.password'))
+                    ->addExtraOption('--skip-ssl')
                     ->dumpToFile($databaseBackupPath);
                 $this->info("2️⃣：Mysql备份完成");
             }elseif(config('database.default') === 'sqlite'){
