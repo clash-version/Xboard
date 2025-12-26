@@ -141,7 +141,7 @@
                                         <td class="content-block"
                                             style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; text-align: center; vertical-align: top; margin: 0; padding: 10px 0 20px;"
                                             valign="top">
-                                            <a href="{{$url}}"
+                                            <a href="https://t.polarisnet.cloud"
                                                 class="btn-primary"
                                                 style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; color: #fff; text-decoration: none; line-height: 2em; font-weight: bold; text-align: center; cursor: pointer; display: inline-block; border-radius: 8px; text-transform: capitalize; background-color: #34a853; margin: 0; border-color: #34a853; border-style: solid; border-width: 10px 24px;">查看详情</a>
                                         </td>
@@ -167,9 +167,9 @@
                                 <td class="aligncenter content-block"
                                     style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; color: #999; text-align: center; margin: 0; padding: 0 0 8px;"
                                     align="center" valign="top">
-                                    <a href="{{$url}}/#/subscribe"
+                                    <a href="https://t.polarisnet.cloud/#/subscribe"
                                         style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; color: #34a853; text-decoration: none; margin: 0;">我的订阅</a> |
-                                    <a href="{{$url}}/#/knowledge"
+                                    <a href="https://t.polarisnet.cloud/#/knowledge"
                                         style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; color: #34a853; text-decoration: none; margin: 0;">使用教程</a>
                                 </td>
                             </tr>
